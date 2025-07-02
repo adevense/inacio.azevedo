@@ -13,9 +13,6 @@ def frequencia(*args):
     for _ in frequentes:
         print(frequentes[b])
         b+=1
-    
-
-
 
 frequencia(lista)
 
